@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# SQLite
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+data/
+
+# System and logs
+.DS_Store
+*.log
+
+# SQLite database backups
+*.db.*
+*.db.backup-*
+*.sqlite3.*

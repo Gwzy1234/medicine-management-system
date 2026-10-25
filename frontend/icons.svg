@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+<symbol id="dashboard" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="2"/><rect x="14" y="3" width="7" height="7" rx="2"/><rect x="3" y="14" width="7" height="7" rx="2"/><rect x="14" y="14" width="7" height="7" rx="2"/></symbol>
+<symbol id="medicine" viewBox="0 0 24 24"><path d="m8 5-3 3a7 7 0 0 0 10 10l3-3A7 7 0 0 0 8 5Zm0 0 10 10"/></symbol>
+<symbol id="inventory" viewBox="0 0 24 24"><path d="m3 7 9-5 9 5v10l-9 5-9-5zm0 0 9 5 9-5M12 12v10M7.5 4.5l9 5"/></symbol>
+<symbol id="nfc" viewBox="0 0 24 24"><path d="M5 8V5h3m8 0h3v3m0 8v3h-3M8 19H5v-3m5-7v6m4-6v6m-7-3h10"/></symbol>
+<symbol id="logs" viewBox="0 0 24 24"><path d="M8 3H5v18h14V3h-3M8 2h8v4H8zm0 9h8m-8 4h8"/></symbol>
+<symbol id="users" viewBox="0 0 24 24"><circle cx="9" cy="7" r="3"/><path d="M3 21v-4a6 6 0 0 1 12 0v4m1-17a3 3 0 0 1 0 6m3 11v-4a6 6 0 0 0-2-4"/></symbol>
+<symbol id="arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+<symbol id="refresh" viewBox="0 0 24 24"><path d="M20 8a9 9 0 1 0 1 8M20 3v6h-6"/></symbol>
+<symbol id="plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+<symbol id="download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></symbol>
+<symbol id="shield" viewBox="0 0 24 24"><path d="m12 2 8 4v6c0 5-8 10-8 10S4 17 4 12V6zm-4 9 3 3 5-6"/></symbol>
+<symbol id="menu" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></symbol>
+<symbol id="logout" viewBox="0 0 24 24"><path d="M9 4H4v16h5m5-12 4 4-4 4m-5-4h12"/></symbol>
+<symbol id="check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+</svg>
